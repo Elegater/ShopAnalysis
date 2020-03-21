@@ -1,0 +1,9 @@
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\bin\Debug\Input\ShopData.txt
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\bin\Debug\ShopAnalysis.exe.config
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\bin\Debug\ShopAnalysis.exe
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\bin\Debug\ShopAnalysis.pdb
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\obj\Debug\ShopAnalysis.csprojAssemblyReference.cache
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\obj\Debug\ShopAnalysis.csproj.CoreCompileInputs.cache
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\obj\Debug\ShopAnalysis.exe
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\obj\Debug\ShopAnalysis.pdb
+D:\Documents\Google Drive\VS\Stuff\ShopAnalysis\ShopAnalysis\bin\Debug\Input\ShipList.txt
